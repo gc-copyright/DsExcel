@@ -21,3 +21,7 @@ These projects use the non-licensed version of DsExcel. The non-licensed version
 * Product Home Site: [https://developer.mescius.com/document-solutions/dot-net-excel-api](https://developer.mescius.com/document-solutions/dot-net-excel-api)
 * Nuget Package: [https://www.nuget.org/packages/GrapeCity.Documents.Excel/](https://www.nuget.org/packages/GrapeCity.Documents.Excel/)
 * .NET Core SDK: [https://www.microsoft.com/net/core](https://www.microsoft.com/net/core)
+
+# Magic Numbers
+* 09B8E8B6-7EA5-4510-ACFD-B14178390FC6
+* 6a2e6a9f-8a7d-4aeb-bd6c-8e0c1f14a7f6
